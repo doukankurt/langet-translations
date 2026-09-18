@@ -1,5 +1,20 @@
 {
   "version": 1,
   "updatedAt": "2026-09-18",
-  "games": []
+  "games": [
+    {
+      "steamAppId": 243470,
+      "slug": "watch_dogs",
+      "name": "Watch_Dogs",
+      "languages": [
+        {
+          "code": "tr",
+          "label": "Türkçe (Kısmi - HUD/Menü)",
+          "version": "0.1.0",
+          "manifest": "games/watch_dogs/tr/manifest.json",
+          "package": "games/watch_dogs/tr/package.zip"
+        }
+      ]
+    }
+  ]
 }

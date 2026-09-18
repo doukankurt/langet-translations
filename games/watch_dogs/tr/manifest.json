@@ -1,0 +1,13 @@
+{
+  "gameSlug": "watch_dogs",
+  "language": "tr",
+  "displayName": "Türkçe (Kısmi - HUD/Menü)",
+  "version": "0.1.0",
+  "author": "Langet",
+  "updatedAt": "2026-09-18",
+  "description": "Watch Dogs (2014) icin kismi Turkce ceviri: HUD bildirimleri (GOREV, UYARI, IPUCU vb.), acik dunya aktivite etiketleri (SUCLU KONVOYU, CETE SAKLANMA NOKTASI vb.) ve genel menu/arayuz kelimeleri (2100+ metin ID'si) cevrilmistir. Gorev diyaloglari ve alt yazilar henuz cevrilmemistir. ONEMLI: Bu ceviri NexusTools mod yukleyicisinin (https://www.nexusmods.com/watchdogs/mods/491) ayrica ve senin kendi onayinla kurulmus olmasini gerektirir - Langet bu araci otomatik kurmaz. NexusTools kuruluysa bu paket data_win64/mods/langet_tr icine dosya birakir; kurulu degilse dosyalar sadece orada durur, oyuna hicbir etkisi olmaz.",
+  "files": [
+    "data_win64/mods/langet_tr/loc.json",
+    "data_win64/mods/langet_tr/modconfig.json"
+  ]
+}
