@@ -1,0 +1,12 @@
+{
+  "gameSlug": "_template",
+  "language": "tr",
+  "displayName": "Türkçe",
+  "version": "1.0.0",
+  "author": "Langet",
+  "updatedAt": "2026-09-18",
+  "description": "Bu bir şablondur. Yeni bir oyun çevirisi eklerken bu klasörü kopyalayıp doldurun.",
+  "files": [
+    "path/inside/game/to/replaced_file.ext"
+  ]
+}
